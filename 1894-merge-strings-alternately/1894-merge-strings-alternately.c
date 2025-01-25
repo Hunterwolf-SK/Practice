@@ -9,12 +9,8 @@ char * mergeAlternately(char * word1, char * word2){
     int i=0,j=0,k=0;
     while(i<l1 && j<l2)
     {
-        merged[k]=word1[i];
-        k++;
-        i++;
-        merged[k]=word2[j];
-        k++;
-        j++;
+        merged[k++]=word1[i++];
+        merged[k++]=word2[j++];
     }
     while(i<l1)
     {
