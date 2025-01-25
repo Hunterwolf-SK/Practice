@@ -15,6 +15,7 @@ To develop programming knowledge
 | [0443-string-compression](https://github.com/Hunterwolf-SK/Practice/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hunterwolf-SK/Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Hunterwolf-SK/Practice/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,8 @@ To develop programming knowledge
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hunterwolf-SK/Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
