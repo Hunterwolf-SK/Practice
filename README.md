@@ -54,6 +54,7 @@ To develop programming knowledge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hunterwolf-SK/Practice/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ To develop programming knowledge
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
