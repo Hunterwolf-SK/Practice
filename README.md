@@ -35,6 +35,7 @@ To develop programming knowledge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Hunterwolf-SK/Practice/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Hunterwolf-SK/Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Hunterwolf-SK/Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hunterwolf-SK/Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Hunterwolf-SK/Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -76,5 +77,6 @@ To develop programming knowledge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Hunterwolf-SK/Practice/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
