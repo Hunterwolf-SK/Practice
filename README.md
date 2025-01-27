@@ -72,6 +72,7 @@ To develop programming knowledge
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
@@ -79,4 +80,8 @@ To develop programming knowledge
 | ------- |
 | [0136-single-number](https://github.com/Hunterwolf-SK/Practice/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/0338-counting-bits) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
