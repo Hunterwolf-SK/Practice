@@ -41,6 +41,7 @@ To develop programming knowledge
 | [0283-move-zeroes](https://github.com/Hunterwolf-SK/Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Hunterwolf-SK/Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Hunterwolf-SK/Practice/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hunterwolf-SK/Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hunterwolf-SK/Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -86,4 +87,12 @@ To develop programming knowledge
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
