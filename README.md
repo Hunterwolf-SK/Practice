@@ -46,6 +46,7 @@ To develop programming knowledge
 | [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hunterwolf-SK/Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hunterwolf-SK/Practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hunterwolf-SK/Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
