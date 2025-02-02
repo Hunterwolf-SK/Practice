@@ -48,6 +48,7 @@ To develop programming knowledge
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hunterwolf-SK/Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hunterwolf-SK/Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hunterwolf-SK/Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2792-neighboring-bitwise-xor](https://github.com/Hunterwolf-SK/Practice/tree/master/2792-neighboring-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +89,7 @@ To develop programming knowledge
 | [0338-counting-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Hunterwolf-SK/Practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hunterwolf-SK/Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2792-neighboring-bitwise-xor](https://github.com/Hunterwolf-SK/Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
