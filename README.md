@@ -20,6 +20,7 @@ To develop programming knowledge
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Hunterwolf-SK/Practice/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Hunterwolf-SK/Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hunterwolf-SK/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hunterwolf-SK/Practice/tree/master/0345-reverse-vowels-of-a-string) |
