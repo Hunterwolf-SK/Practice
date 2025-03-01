@@ -8,6 +8,7 @@ To develop programming knowledge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Hunterwolf-SK/Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Hunterwolf-SK/Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Hunterwolf-SK/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Hunterwolf-SK/Practice/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@ To develop programming knowledge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Hunterwolf-SK/Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Hunterwolf-SK/Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Hunterwolf-SK/Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hunterwolf-SK/Practice/tree/master/0283-move-zeroes) |
@@ -64,6 +66,7 @@ To develop programming knowledge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hunterwolf-SK/Practice/tree/master/0392-is-subsequence) |
 ## Hash Table
@@ -103,10 +106,12 @@ To develop programming knowledge
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
