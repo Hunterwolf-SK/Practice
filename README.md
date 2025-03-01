@@ -17,6 +17,7 @@ To develop programming knowledge
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hunterwolf-SK/Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Hunterwolf-SK/Practice/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hunterwolf-SK/Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Hunterwolf-SK/Practice/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ To develop programming knowledge
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Hunterwolf-SK/Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Hunterwolf-SK/Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hunterwolf-SK/Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2551-apply-operations-to-an-array](https://github.com/Hunterwolf-SK/Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hunterwolf-SK/Practice/tree/master/2792-neighboring-bitwise-xor) |
 ## Greedy
 |  |
@@ -106,4 +108,8 @@ To develop programming knowledge
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Hunterwolf-SK/Practice/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Hunterwolf-SK/Practice/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
