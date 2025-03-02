@@ -34,6 +34,7 @@ To develop programming knowledge
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Hunterwolf-SK/Practice/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Hunterwolf-SK/Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Hunterwolf-SK/Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
