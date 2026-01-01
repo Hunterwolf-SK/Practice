@@ -42,6 +42,7 @@ To develop programming knowledge
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Hunterwolf-SK/Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Hunterwolf-SK/Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Hunterwolf-SK/Practice/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Hunterwolf-SK/Practice/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Hunterwolf-SK/Practice/tree/master/0238-product-of-array-except-self) |
@@ -118,4 +119,8 @@ To develop programming knowledge
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Hunterwolf-SK/Practice/tree/master/2551-apply-operations-to-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Hunterwolf-SK/Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
